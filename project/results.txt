@@ -1,0 +1,360 @@
+Dataset: data/acute-inflammations-nephritis.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/analcatdata_boxing1.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.001
+max_leaf_nodes: 11
+n_estimators: 500
+subsample: 1.0
+
+Accuracy: 0.875
+------------------------------------------------------------
+Dataset: data/analcatdata_boxing2.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 0.8888888888888888
+------------------------------------------------------------
+Dataset: data/analcatdata_creditscore.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/analcatdata_lawsuit.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/appendicitis.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 0.9545454545454546
+------------------------------------------------------------
+Dataset: data/autoUniv-au1-1000.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.01
+max_leaf_nodes: 11
+n_estimators: 500
+subsample: 1.0
+
+Accuracy: 0.835
+------------------------------------------------------------
+Dataset: data/backache.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 3
+n_estimators: 100
+subsample: 0.7
+
+Accuracy: 0.9166666666666666
+------------------------------------------------------------
+Dataset: data/banana.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 11
+n_estimators: 100
+subsample: 0.8
+
+Accuracy: 0.8810198300283286
+------------------------------------------------------------
+Dataset: data/bank-marketing.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.05
+max_leaf_nodes: 11
+n_estimators: 1000
+subsample: 0.8
+
+Accuracy: 0.901657458563536
+------------------------------------------------------------
+Dataset: data/banknote-authentication.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 11
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/blood-transfusion-service.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 200
+subsample: 0.6
+
+Accuracy: 0.7757009345794392
+------------------------------------------------------------
+Dataset: data/breast-cancer-wisconsin.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 3
+n_estimators: 100
+subsample: 1.0
+
+Accuracy: 0.946236559139785
+------------------------------------------------------------
+Dataset: data/bupa.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 3
+n_estimators: 100
+subsample: 1.0
+
+Accuracy: 0.7681159420289855
+------------------------------------------------------------
+Dataset: data/climate-simulation-craches.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 3
+n_estimators: 100
+subsample: 0.8
+
+Accuracy: 0.9351851851851852
+------------------------------------------------------------
+Dataset: data/connectionist-mines-vs-rocks.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 11
+n_estimators: 100
+subsample: 0.7
+
+Accuracy: 0.9285714285714286
+------------------------------------------------------------
+Dataset: data/fertility-diagnosis.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 0.9
+------------------------------------------------------------
+Dataset: data/habermans-survival.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 6
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 0.7413793103448276
+------------------------------------------------------------
+Dataset: data/heart-disease-processed-hungarian.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 6
+n_estimators: 200
+subsample: 1.0
+
+Accuracy: 0.847457627118644
+------------------------------------------------------------
+Dataset: data/hepatitis.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.05
+max_leaf_nodes: 3
+n_estimators: 500
+subsample: 0.7
+
+Accuracy: 0.9032258064516129
+------------------------------------------------------------
+Dataset: data/hill-valley-with-noise.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 6
+n_estimators: 1000
+subsample: 0.6
+
+Accuracy: 0.654320987654321
+------------------------------------------------------------
+Dataset: data/horse-colic-surgical.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.01
+max_leaf_nodes: 3
+n_estimators: 200
+subsample: 1.0
+
+Accuracy: 0.8833333333333333
+------------------------------------------------------------
+Dataset: data/indian-liver-patient.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 500
+subsample: 0.8
+
+Accuracy: 0.7631578947368421
+------------------------------------------------------------
+Dataset: data/ionosphere.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 3
+n_estimators: 200
+subsample: 0.7
+
+Accuracy: 0.9857142857142858
+------------------------------------------------------------
+Dataset: data/kr-vs-kp.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 11
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/leukemia-haslinger.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.05
+max_leaf_nodes: 11
+n_estimators: 100
+subsample: 0.8
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/lsvt-voice-rehabilitation.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 3
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 0.8076923076923077
+------------------------------------------------------------
+Dataset: data/mammographic-mass.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.05
+max_leaf_nodes: 2
+n_estimators: 100
+subsample: 0.7
+
+Accuracy: 0.8260869565217391
+------------------------------------------------------------
+Dataset: data/molecular-promotor-gene.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 2
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/monks1.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 6
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/monks2.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.05
+max_leaf_nodes: 11
+n_estimators: 200
+subsample: 1.0
+
+Accuracy: 0.9770114942528736
+------------------------------------------------------------
+Dataset: data/monks3.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 3
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/mushroom.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 11
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 1.0
+------------------------------------------------------------
+Dataset: data/ozone-eighthr.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.05
+max_leaf_nodes: 11
+n_estimators: 500
+subsample: 1.0
+
+Accuracy: 0.9545454545454546
+------------------------------------------------------------
+Dataset: data/ozone-onehr.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.01
+max_leaf_nodes: 3
+n_estimators: 100
+subsample: 0.8
+
+Accuracy: 0.9723320158102767
+------------------------------------------------------------
+Dataset: data/parkinsons.arff 
+
+Found best hyperparameters: 
+learning_rate: 0.1
+max_leaf_nodes: 3
+n_estimators: 100
+subsample: 0.6
+
+Accuracy: 0.9487179487179487
+------------------------------------------------------------

@@ -1,0 +1,8 @@
+Found best hyperparameters: 
+learning_rate: 0.05
+max_leaf_nodes: 6
+n_estimators: 100
+subsample: 0.8
+
+Accuracy: 0.7631578947368421
+------------------------------------------------------------

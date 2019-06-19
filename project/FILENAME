@@ -1,0 +1,122 @@
+Dataset: data/acute-inflammations-nephritis.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/analcatdata_boxing1.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/analcatdata_boxing2.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/analcatdata_creditscore.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/analcatdata_lawsuit.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/appendicitis.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/autoUniv-au1-1000.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/backache.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/banana.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/bank-marketing.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/banknote-authentication.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/blood-transfusion-service.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/breast-cancer-wisconsin.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/bupa.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/climate-simulation-craches.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/connectionist-mines-vs-rocks.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/fertility-diagnosis.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/habermans-survival.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/heart-disease-processed-hungarian.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/hepatitis.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/hill-valley-with-noise.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/horse-colic-surgical.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/indian-liver-patient.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/ionosphere.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/kr-vs-kp.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/leukemia-haslinger.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/lsvt-voice-rehabilitation.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/mammographic-mass.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/molecular-promotor-gene.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/monks1.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/monks2.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/monks3.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/mushroom.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/ozone-eighthr.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/ozone-onehr.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/parkinsons.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/phoneme.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/pima-indians-diabetes.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/planning-relax.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/prnn_crabs.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/qsar-biodegradation.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/qualitative-bankruptcy.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/ringnorm.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/saheart.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/seismic-bumps.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/spambase.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/spect-heart.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/spectf-heart.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/statlog-australian-credit.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/statlog-german-credit-numeric.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/statlog-german-credit.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/statlog-heart.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/steel-plates-faults.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/thoracic-surgery.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/thyroid-hypothyroid.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/thyroid-sick-euthyroid.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/tic-tac-toe.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/voting.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/wdbc.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/wholesale-channel.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
+Dataset: data/wilt.arff
+Found best hyperparameters: learning rate: 0.8, max leaf nodes: 3
